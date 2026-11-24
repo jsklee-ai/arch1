@@ -1,0 +1,96 @@
+{
+  "tagline": "The University of Michigan’s first architectural competition team.",
+  "about": [
+    "Arch 1 is the University of Michigan’s first architectural competition team, started in spring 2024 by three Taubman College students.",
+    "We enter design competitions together, pin up and critique each other’s work, and push each other through both competition and cooperation."
+  ],
+  "words": [
+    "Competition",
+    "Collaboration",
+    "Craft",
+    "Critique"
+  ],
+  "email": "thearch1um@gmail.com",
+  "instagram": "arch1_uofm",
+  "location": "Taubman College, Ann Arbor",
+  "founded": "2024",
+  "heroImages": [
+    {
+      "src": "images/renderings/heat-house-1.jpg",
+      "competition": "M-ARCH 005"
+    },
+    {
+      "src": "images/renderings/myvatn-immersion-1.jpg",
+      "competition": "M-ARCH 005"
+    },
+    {
+      "src": "images/renderings/therma-1.jpg",
+      "competition": "M-ARCH 005"
+    },
+    {
+      "src": "images/renderings/volcanic-aven-1.jpg",
+      "competition": "M-ARCH 005"
+    },
+    {
+      "src": "images/renderings/slow-sauna-1.jpg",
+      "competition": "M-ARCH 005"
+    },
+    {
+      "src": "images/renderings/deteriorating-traces-1.jpg",
+      "competition": "M-ARCH 003"
+    },
+    {
+      "src": "images/renderings/house-of-shadows-1.jpg",
+      "competition": "M-ARCH 003"
+    },
+    {
+      "src": "images/renderings/into-the-gentle-night-1.jpg",
+      "competition": "M-ARCH 003"
+    },
+    {
+      "src": "images/renderings/between-2.jpg",
+      "competition": "M-ARCH 003"
+    },
+    {
+      "src": "images/renderings/house-of-shadows-2.jpg",
+      "competition": "M-ARCH 003"
+    },
+    {
+      "src": "images/renderings/sustenance-from-salt-1.jpg",
+      "competition": "M-ARCH 004"
+    },
+    {
+      "src": "images/renderings/beacon-lighthouse-1.jpg",
+      "competition": "M-ARCH 002"
+    },
+    {
+      "src": "images/renderings/riflesso-2.jpg",
+      "competition": "M-ARCH 002"
+    },
+    {
+      "src": "images/renderings/city-hall-subway-station-1.jpg",
+      "competition": "M-ARCH 002"
+    },
+    {
+      "src": "images/renderings/yanai-community-hub-1.jpg",
+      "competition": "M-ARCH 002"
+    },
+    {
+      "src": "images/renderings/volastra-wellness-studio-1.jpg",
+      "competition": "M-ARCH 002"
+    },
+    {
+      "src": "images/renderings/the-orb-1.jpg",
+      "competition": "M-ARCH 000"
+    },
+    {
+      "src": "images/renderings/hubbard-farms-kinderspace-1.jpg",
+      "competition": "M-ARCH 001"
+    },
+    {
+      "src": "images/renderings/into-the-gentle-night-2.jpg",
+      "competition": "M-ARCH 003"
+    }
+  ],
+  "featureImage": "images/renderings/slow-sauna-1.jpg"
+}

@@ -1,0 +1,328 @@
+[
+  {
+    "code": "M-ARCH 000",
+    "name": "Treehouse",
+    "competition": "Volume Zero 2024 Treehouse Competition — Edition #2",
+    "host": "Volume Zero",
+    "date": "2024",
+    "about": "",
+    "cover": "",
+    "groups": [
+      {
+        "title": "The Orb",
+        "team": "Elliot Lavigne, Lilijana Gregov, Max McCumber",
+        "term": "Summer 2024",
+        "result": "",
+        "description": "The Orb was Arch 1’s first competition submission.",
+        "images": [
+          "images/renderings/the-orb-1.jpg"
+        ],
+        "boards": [
+          "images/boards/treehouse/the-orb-p1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "M-ARCH 001",
+    "name": "Kinderspace",
+    "competition": "Buildner Kinderspace Competition 2024",
+    "host": "Buildner",
+    "date": "2024",
+    "about": "",
+    "cover": "",
+    "groups": [
+      {
+        "title": "Hubbard Farms Kinderspace",
+        "team": "Max McCumber, Rowan Freeman, Ella Spender, Itamar Yahav",
+        "term": "Fall 2024",
+        "result": "",
+        "description": "",
+        "images": [
+          "images/renderings/hubbard-farms-kinderspace-1.jpg"
+        ],
+        "boards": [
+          "images/boards/kinderspace/hubbard-farms-p1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "M-ARCH 002",
+    "name": "ReForm",
+    "competition": "Buildner ReForm: New Life for Old Spaces 2025",
+    "host": "Buildner",
+    "date": "2025",
+    "about": "",
+    "cover": "images/renderings/riflesso-2.jpg",
+    "groups": [
+      {
+        "title": "Riflesso",
+        "team": "Elliot Lavigne, Zhiheng Liu, Liliana Dave, Evita Christou, Lowell Kurtz",
+        "term": "Spring 2025",
+        "result": "",
+        "description": "",
+        "images": [
+          "images/renderings/riflesso-2.jpg",
+          "images/renderings/riflesso-1.jpg"
+        ],
+        "boards": [
+          "images/boards/reform/riflesso-p1.jpg"
+        ]
+      },
+      {
+        "title": "Volastra Wellness Studio",
+        "team": "Anna Deyoung, Erin Barndollar, Kevin Ramirez, Jordan Peters",
+        "term": "Spring 2025",
+        "result": "",
+        "description": "",
+        "images": [
+          "images/renderings/volastra-wellness-studio-1.jpg"
+        ],
+        "boards": [
+          "images/boards/reform/volastra-wellness-studio-p1.jpg"
+        ]
+      },
+      {
+        "title": "City Hall Subway Station",
+        "team": "Max McCumber, Itamar Yahav, Rachel Chen, Alex Lang",
+        "term": "Spring 2025",
+        "result": "",
+        "description": "",
+        "images": [
+          "images/renderings/city-hall-subway-station-1.jpg"
+        ],
+        "boards": [
+          "images/boards/reform/city-hall-subway-station-p1.jpg"
+        ]
+      },
+      {
+        "title": "Beacon Lighthouse",
+        "team": "Julianne Cucos, Rowan Freeman, Rayna Richards, Milcah Kresnadi",
+        "term": "Spring 2025",
+        "result": "",
+        "description": "",
+        "images": [
+          "images/renderings/beacon-lighthouse-1.jpg"
+        ],
+        "boards": [
+          "images/boards/reform/beacon-lighthouse-p1.jpg"
+        ]
+      },
+      {
+        "title": "Yanai Community Hub",
+        "team": "Segal, Spender, Sun, Tay",
+        "term": "",
+        "result": "",
+        "description": "",
+        "images": [
+          "images/renderings/yanai-community-hub-1.jpg",
+          "images/renderings/yanai-community-hub-2.jpg"
+        ],
+        "boards": [
+          "images/boards/reform/yanai-community-hub-p1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "M-ARCH 003",
+    "name": "Schrödinger’s Room",
+    "competition": "Archcontest — Schrödinger’s Room, Edition #1",
+    "host": "Archcontest",
+    "date": "2025",
+    "about": "Arch 1 submitted nine proposals, developed in teams of three.",
+    "cover": "images/renderings/deteriorating-traces-1.jpg",
+    "groups": [
+      {
+        "title": "Deteriorating Traces",
+        "team": "Lilijana Gregov, Rowan Freeman, Julianne Cucos",
+        "term": "",
+        "result": "3rd place",
+        "description": "",
+        "images": [
+          "images/renderings/deteriorating-traces-1.jpg"
+        ],
+        "boards": [
+          "images/boards/schrodingers-room/deteriorating-traces-p1.jpg",
+          "images/boards/schrodingers-room/deteriorating-traces-p2.jpg"
+        ]
+      },
+      {
+        "title": "Into the Gentle Night",
+        "team": "Max McCumber",
+        "term": "",
+        "result": "",
+        "description": "",
+        "images": [
+          "images/renderings/into-the-gentle-night-1.jpg",
+          "images/renderings/into-the-gentle-night-2.jpg"
+        ],
+        "boards": [
+          "images/boards/schrodingers-room/into-the-gentle-night-p1.jpg",
+          "images/boards/schrodingers-room/into-the-gentle-night-p2.jpg"
+        ]
+      },
+      {
+        "title": "House of Shadows",
+        "team": "",
+        "term": "",
+        "result": "",
+        "description": "",
+        "images": [
+          "images/renderings/house-of-shadows-1.jpg",
+          "images/renderings/house-of-shadows-2.jpg"
+        ],
+        "boards": [
+          "images/boards/schrodingers-room/house-of-shadows-p1.jpg",
+          "images/boards/schrodingers-room/house-of-shadows-p2.jpg"
+        ]
+      },
+      {
+        "title": "BETWEE_N",
+        "team": "",
+        "term": "",
+        "result": "",
+        "description": "",
+        "images": [
+          "images/renderings/between-2.jpg",
+          "images/renderings/between-1.jpg"
+        ],
+        "boards": [
+          "images/boards/schrodingers-room/between-p1.jpg",
+          "images/boards/schrodingers-room/between-p2.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "M-ARCH 004",
+    "name": "120 Hours",
+    "competition": "120 Hours 2026 — Kittiwake Hotel",
+    "host": "120 Hours",
+    "date": "2026",
+    "about": "",
+    "cover": "",
+    "groups": [
+      {
+        "title": "Sustenance from Salt",
+        "team": "Team 0737",
+        "term": "Winter 2026",
+        "result": "",
+        "description": "",
+        "images": [
+          "images/renderings/sustenance-from-salt-1.jpg"
+        ],
+        "boards": [
+          "images/boards/120-hours/sustenance-from-salt-p1.jpg",
+          "images/boards/120-hours/sustenance-from-salt-p2.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "M-ARCH 005",
+    "name": "Iceland Slow Sauna",
+    "competition": "Buildner Iceland Slow Sauna 2026",
+    "host": "Buildner",
+    "date": "2026",
+    "about": "",
+    "cover": "images/renderings/heat-house-1.jpg",
+    "groups": [
+      {
+        "title": "Heat House",
+        "team": "Freeman, Kresnadi, Spender, Ruf",
+        "term": "",
+        "result": "",
+        "description": "",
+        "images": [
+          "images/renderings/heat-house-1.jpg"
+        ],
+        "boards": [
+          "images/boards/iceland-slow-sauna/heat-house-p1.jpg",
+          "images/boards/iceland-slow-sauna/heat-house-p2.jpg",
+          "images/boards/iceland-slow-sauna/heat-house-p3.jpg",
+          "images/boards/iceland-slow-sauna/heat-house-p4.jpg"
+        ]
+      },
+      {
+        "title": "Mývatn Immersion",
+        "team": "Boldt, Liu, Martin, Owen",
+        "term": "",
+        "result": "",
+        "description": "",
+        "images": [
+          "images/renderings/myvatn-immersion-1.jpg",
+          "images/renderings/myvatn-immersion-2.jpg"
+        ],
+        "boards": [
+          "images/boards/iceland-slow-sauna/myvatn-immersion-p1.jpg",
+          "images/boards/iceland-slow-sauna/myvatn-immersion-p2.jpg",
+          "images/boards/iceland-slow-sauna/myvatn-immersion-p3.jpg",
+          "images/boards/iceland-slow-sauna/myvatn-immersion-p4.jpg"
+        ]
+      },
+      {
+        "title": "Slow Sauna",
+        "team": "Cho, Donavan, Gregov, Lee",
+        "term": "",
+        "result": "",
+        "description": "",
+        "images": [
+          "images/renderings/slow-sauna-1.jpg",
+          "images/renderings/slow-sauna-2.jpg"
+        ],
+        "boards": [
+          "images/boards/iceland-slow-sauna/slow-sauna-p1.jpg",
+          "images/boards/iceland-slow-sauna/slow-sauna-p2.jpg",
+          "images/boards/iceland-slow-sauna/slow-sauna-p3.jpg",
+          "images/boards/iceland-slow-sauna/slow-sauna-p4.jpg"
+        ]
+      },
+      {
+        "title": "Therma",
+        "team": "",
+        "term": "",
+        "result": "",
+        "description": "",
+        "images": [
+          "images/renderings/therma-1.jpg",
+          "images/renderings/therma-2.jpg"
+        ],
+        "boards": [
+          "images/boards/iceland-slow-sauna/therma-p1.jpg",
+          "images/boards/iceland-slow-sauna/therma-p2.jpg",
+          "images/boards/iceland-slow-sauna/therma-p3.jpg",
+          "images/boards/iceland-slow-sauna/therma-p4.jpg"
+        ]
+      },
+      {
+        "title": "The Volcanic Aven",
+        "team": "",
+        "term": "",
+        "result": "",
+        "description": "",
+        "images": [
+          "images/renderings/volcanic-aven-1.jpg",
+          "images/renderings/volcanic-aven-2.jpg"
+        ],
+        "boards": [
+          "images/boards/iceland-slow-sauna/volcanic-aven-p1.jpg",
+          "images/boards/iceland-slow-sauna/volcanic-aven-p2.jpg",
+          "images/boards/iceland-slow-sauna/volcanic-aven-p3.jpg",
+          "images/boards/iceland-slow-sauna/volcanic-aven-p4.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "M-ARCH 006",
+    "name": "Micro Living",
+    "competition": "Volume Zero — Micro Living 2026",
+    "host": "Volume Zero",
+    "date": "2026",
+    "about": "In progress.",
+    "cover": "",
+    "groups": []
+  }
+]
