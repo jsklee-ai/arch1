@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "Junseok Lee",
+    "role": "Member",
+    "group": "team",
+    "major": "B.S. Architecture",
+    "year": "Junior",
+    "email": "jsklee@umich.edu",
+    "photo": "images/junseok-lee.jpg"
+  }
+]
